@@ -1,0 +1,6 @@
+npx create-react-app projeadi // Projeyi oluşturur
+
+npm start // projeyi başlatır
+
+npm install reactstrap // reactstrap kurar
+npm install bootstrap // bootstrap ekler
